@@ -4,8 +4,8 @@
 <h2>Utilizando HTML e CSS</h2>
 <br>
 <br>
-<img src="./Captura de tela 2024-01-27 180118.png>
-=======
+<img src="https://github.com/Gislainesgama/dev-club-projeto/blob/main/Captura%20de%20tela%202024-01-27%20180118.png?raw=true">
+
 
 
 
