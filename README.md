@@ -1,6 +1,6 @@
 <h1>Projeto de estudo, desafio DevClub</h1>
 <br>
-<<<<<<< HEAD
+
 <h2>Utilizando HTML e CSS</h2>
 <br>
 <br>
